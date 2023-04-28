@@ -8,5 +8,12 @@
             base.DoIt();
             Console.WriteLine("A thing after");
         }
+
+        protected override void MainThing2()
+        {
+            //base.MainThing2();
+            Console.WriteLine("A version of thing 2");
+            // base.MainThing2();
+        }
     }
 }
