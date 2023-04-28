@@ -1,4 +1,6 @@
 ﻿/*
+ * Pause til 10:35
+ *
  * Om Design patterns generelt
  *  - Eksempler:
  *     - MVC

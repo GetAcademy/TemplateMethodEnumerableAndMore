@@ -27,7 +27,7 @@
 
         protected virtual void ShowText()
         {
-            Write(_text, _x, _y);
+            Write(_text);
         }
 
         protected virtual void ShowBorder()
