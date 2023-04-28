@@ -1,7 +1,11 @@
 ﻿/*
  * Om Design patterns generelt
+ *  - Eksempler:
+ *     - MVC
+ *     - Singleton
  *
  * Template Method Pattern
+ *  - Tekster
  *  - Generelt eksempel, legge til før, etter og mellom
  *  - Oppskrifter: f.eks. modellere opp både boller og pannekaker
  *
@@ -14,4 +18,4 @@
 
 using TemplateMethodEnumerableAndMore.Text;
 
-TextDemo1.Run();
+TextDemo2.Run();
