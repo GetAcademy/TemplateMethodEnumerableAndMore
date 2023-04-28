@@ -1,6 +1,4 @@
 ﻿/*
- * Pause til 10:35
- *
  * Om Design patterns generelt
  *  - Eksempler:
  *     - MVC
@@ -18,6 +16,7 @@
  *  - Extension methods
  */
 
+using TemplateMethodEnumerableAndMore.Enumerable;
 using TemplateMethodEnumerableAndMore.Text;
 
-TextDemo2.Run();
+EnumeratorAndEnumerableDemo.Run();
