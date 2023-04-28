@@ -1,8 +1,8 @@
 ﻿namespace TemplateMethodEnumerableAndMore.Text
 {
-    internal class BorderedText2 : Text2
+    internal class SimpleText2 : Text2
     {
-        public BorderedText2(int x, int y, string text) : base(x, y, text)
+        public SimpleText2(int x, int y, string text) : base(x, y, text)
         {
         }
 
@@ -11,6 +11,10 @@
         }
 
         protected override void SetColor()
+        {
+        }
+
+        protected override void ShowBorder()
         {
         }
     }
